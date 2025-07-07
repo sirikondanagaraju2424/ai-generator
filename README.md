@@ -1,1 +1,1 @@
-# ai-generator
+This system integrates AWS Bedrock with Streamlit to provide users an easy way to generate AI-powered creative content.
